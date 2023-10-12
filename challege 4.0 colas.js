@@ -41,7 +41,7 @@ const persona2 = {
 const persona3 = {'nombre': 'Juan',
 'hora': '4:20 PM' };
 
-ATM.enqueue(persona1):
+ATM.enqueue(persona1);
 ATM.enqueue(persona2);
 ATM.enqueue(persona3);
 ATM.print();
